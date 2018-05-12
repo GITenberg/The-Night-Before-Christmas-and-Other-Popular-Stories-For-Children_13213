@@ -1,0 +1,33 @@
+_repo: The-Night-Before-Christmas-and-Other-Popular-Stories-For-Children_13213
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13213-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2004-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+- !lcsh 'Christmas -- Poetry'
+tableOfContents: The night before Christmas -- The night after Christmas -- Santa
+  Claus does not forget -- The fairy Christmas -- The ball game -- Christmas day --
+  The dolls' Christmas party -- Grandma's Christmas gifts -- Mama's happy Christmas
+  -- The Christmas carol of the birds -- A turkey for one -- Little Christmas carollers
+  -- What happened Christmas Eve -- Susy's Christmas present -- Santa Claus's letter
+  -- A ragged Christmas feast.
+title: The Night Before Christmas and Other Popular Stories For Children
+url: http://www.gutenberg.org/ebooks/13213
